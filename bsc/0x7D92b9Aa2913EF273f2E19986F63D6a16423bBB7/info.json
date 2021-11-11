@@ -1,0 +1,11 @@
+{
+ "name": "Alchemic Cutie",
+ "website": "https://bscscan.com/token/0x7d92b9aa2913ef273f2e19986f63d6a16423bbb7",
+ "description": "Alchemic Cutie.",
+ "explorer": "https://bscscan.com/token/0x7d92b9aa2913ef273f2e19986f63d6a16423bbb7",
+ "type": "BEP20",
+ "symbol": "Cutie",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7D92b9Aa2913EF273f2E19986F63D6a16423bBB7"
+}
